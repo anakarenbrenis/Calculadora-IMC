@@ -2,9 +2,9 @@ nombre = input("Introduce tu nombre completo ")
 
 edad = int(input("Introduce tu edad en años "))
 
-m = float(input("Peso " ))
+m = float(input("Peso en kilogramos " ))
 
-est = float(input("Estatura "))
+est = float(input("Estatura en metros "))
 
 print(f"Soy {nombre}, tengo {edad}  años, peso {m} kilogramos y mido {est} metros")
 
